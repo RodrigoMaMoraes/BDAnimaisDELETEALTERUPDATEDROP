@@ -89,3 +89,7 @@ delete from animais;
 
 -- DELETANDO A TABELA ESPECIES--
 delete from especies;
+
+![1](https://github.com/RodrigoMaMoraes/BDAnimaisDELETEALTERUPDATEDROP/blob/main/img/Fotos1.PNG)
+![2](https://github.com/RodrigoMaMoraes/BDAnimaisDELETEALTERUPDATEDROP/blob/main/img/fotos2.PNG)
+![3](https://github.com/RodrigoMaMoraes/BDAnimaisDELETEALTERUPDATEDROP/blob/main/img/fotos%203.PNG)
